@@ -1,0 +1,5 @@
+{
+    "require": {
+        "thelia/currency-converter": "^1.0"
+    }
+}
